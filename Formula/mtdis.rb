@@ -3,8 +3,8 @@ class Mtdis < Formula
 
   desc "Run background tasks on macOS only when internet, power, CPU, RAM and GPU allow"
   homepage "https://github.com/DongkuKim/mac-task-dispatcher"
-  url "https://github.com/DongkuKim/mac-task-dispatcher/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "bb70d6c7ca15b0c8269d799ebea17cdabd9ee00f8061a9b554ae88fd7b204938"
+  url "https://github.com/DongkuKim/mac-task-dispatcher/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "7830bf70e767311cc09db6b6c4304c1113b6732058b2ac3aa86809c027b74a41"
   license "MIT"
 
   depends_on :macos
